@@ -1,0 +1,14 @@
+D:\Files\Project\dotnetcore\web\swbbsbackend\swbbsbackend\bin\Release\netcoreapp2.2\swbbsbackend.deps.json
+D:\Files\Project\dotnetcore\web\swbbsbackend\swbbsbackend\bin\Release\netcoreapp2.2\swbbsbackend.runtimeconfig.json
+D:\Files\Project\dotnetcore\web\swbbsbackend\swbbsbackend\bin\Release\netcoreapp2.2\swbbsbackend.runtimeconfig.dev.json
+D:\Files\Project\dotnetcore\web\swbbsbackend\swbbsbackend\bin\Release\netcoreapp2.2\swbbsbackend.dll
+D:\Files\Project\dotnetcore\web\swbbsbackend\swbbsbackend\bin\Release\netcoreapp2.2\swbbsbackend.pdb
+D:\Files\Project\dotnetcore\web\swbbsbackend\swbbsbackend\obj\Release\netcoreapp2.2\swbbsbackend.csprojAssemblyReference.cache
+D:\Files\Project\dotnetcore\web\swbbsbackend\swbbsbackend\obj\Release\netcoreapp2.2\swbbsbackend.csproj.CoreCompileInputs.cache
+D:\Files\Project\dotnetcore\web\swbbsbackend\swbbsbackend\obj\Release\netcoreapp2.2\swbbsbackend.RazorAssemblyInfo.cache
+D:\Files\Project\dotnetcore\web\swbbsbackend\swbbsbackend\obj\Release\netcoreapp2.2\swbbsbackend.RazorAssemblyInfo.cs
+D:\Files\Project\dotnetcore\web\swbbsbackend\swbbsbackend\obj\Release\netcoreapp2.2\swbbsbackend.AssemblyInfoInputs.cache
+D:\Files\Project\dotnetcore\web\swbbsbackend\swbbsbackend\obj\Release\netcoreapp2.2\swbbsbackend.AssemblyInfo.cs
+D:\Files\Project\dotnetcore\web\swbbsbackend\swbbsbackend\obj\Release\netcoreapp2.2\swbbsbackend.RazorTargetAssemblyInfo.cache
+D:\Files\Project\dotnetcore\web\swbbsbackend\swbbsbackend\obj\Release\netcoreapp2.2\swbbsbackend.dll
+D:\Files\Project\dotnetcore\web\swbbsbackend\swbbsbackend\obj\Release\netcoreapp2.2\swbbsbackend.pdb

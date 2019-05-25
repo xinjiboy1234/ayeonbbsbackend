@@ -1,0 +1,14 @@
+D:\files\project\dotcore\web\ayeonbbsbackend\swbbsbackend\bin\Debug\netcoreapp2.2\ayeonbbsbackend.deps.json
+D:\files\project\dotcore\web\ayeonbbsbackend\swbbsbackend\bin\Debug\netcoreapp2.2\ayeonbbsbackend.runtimeconfig.json
+D:\files\project\dotcore\web\ayeonbbsbackend\swbbsbackend\bin\Debug\netcoreapp2.2\ayeonbbsbackend.runtimeconfig.dev.json
+D:\files\project\dotcore\web\ayeonbbsbackend\swbbsbackend\bin\Debug\netcoreapp2.2\ayeonbbsbackend.dll
+D:\files\project\dotcore\web\ayeonbbsbackend\swbbsbackend\bin\Debug\netcoreapp2.2\ayeonbbsbackend.pdb
+D:\files\project\dotcore\web\ayeonbbsbackend\swbbsbackend\obj\Debug\netcoreapp2.2\ayeonbbsbackend.csproj.CoreCompileInputs.cache
+D:\files\project\dotcore\web\ayeonbbsbackend\swbbsbackend\obj\Debug\netcoreapp2.2\ayeonbbsbackend.RazorAssemblyInfo.cache
+D:\files\project\dotcore\web\ayeonbbsbackend\swbbsbackend\obj\Debug\netcoreapp2.2\ayeonbbsbackend.RazorAssemblyInfo.cs
+D:\files\project\dotcore\web\ayeonbbsbackend\swbbsbackend\obj\Debug\netcoreapp2.2\ayeonbbsbackend.AssemblyInfoInputs.cache
+D:\files\project\dotcore\web\ayeonbbsbackend\swbbsbackend\obj\Debug\netcoreapp2.2\ayeonbbsbackend.AssemblyInfo.cs
+D:\files\project\dotcore\web\ayeonbbsbackend\swbbsbackend\obj\Debug\netcoreapp2.2\ayeonbbsbackend.RazorTargetAssemblyInfo.cache
+D:\files\project\dotcore\web\ayeonbbsbackend\swbbsbackend\obj\Debug\netcoreapp2.2\ayeonbbsbackend.dll
+D:\files\project\dotcore\web\ayeonbbsbackend\swbbsbackend\obj\Debug\netcoreapp2.2\ayeonbbsbackend.pdb
+D:\files\project\dotcore\web\ayeonbbsbackend\swbbsbackend\obj\Debug\netcoreapp2.2\ayeonbbsbackend.csprojAssemblyReference.cache
